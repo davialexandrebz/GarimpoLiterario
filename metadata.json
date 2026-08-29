@@ -1,0 +1,6 @@
+{
+  "name": "SocialBooks",
+  "description": "Rede social literária com gestão de leituras estilo Skoob, feed visual estilo Instagram e Inteligência Artificial Literária integrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
